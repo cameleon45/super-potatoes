@@ -40,6 +40,8 @@ Level 3 = Delete the Invite Link then Ban that User.
 
 Kick and Bans in Invite Buster supports Mod-Log if Mod-Log is enabled on your server, Kashima will send it there.
 
+Kashima will Kick / Ban anyone that has Lower Role than her, so if you want to excempt the role, move it higher than Kashima.
+
 * welcomeset - Kashima will set whether to turn the Welcome Module on/off in a server.
 * modlogset - Kashima will set whether to turn the Mod-Log Module on/off in the server.
 * modlogch - Kashima will set the mod-log channel depending on what you want. Has the default of #kashima-log channel.
