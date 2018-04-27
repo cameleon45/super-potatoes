@@ -12,6 +12,7 @@
 1. Changable Prefix
 1. Configurable Welcome Messages
 1. Mod-Log Support to record your Bans and Kicks
+1. Invite Buster, Automated Invite Link Senders Moderation.
 1. AFK Command, You'll never need to say, I'm afk dammit
 1. Moderator Only Commands
 1. Music Commands with Good Quality, Youtube Playlist and Search is supported
