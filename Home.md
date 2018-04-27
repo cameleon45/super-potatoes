@@ -21,9 +21,9 @@
 1. NSFW Commands
 
 **Command List**
-> Misc Commands
+> **Misc Commands**
 
-_Commands that needs **Manage_Server** Permission to work_
+_Commands that needs **Manage_Server** permission to work_
 * prefixset - Kashima will change the prefix according on what you want.
 * afkset - Kashima will set whether the AFK Module will be on/off in a server.
 * welcomeset - Kashima will set whether to turn the Welcome Module on/off in a server.
@@ -49,7 +49,7 @@ _Commands for **Everyone's Usage**_
 * vote - Shows a link to vote for Kashima.
 * invite - Shows the invite for Kashima, so you can use her on your servers.
 
-> Fun Commands
+> **Fun Commands**
 
 * ask - Pretty much like 8ball stuff. Ask something and Kashima can answer yes, maybe or no depending on her mood.
 * avatar - Shows you your avatar, and an another person's avatar if you mentioned someone.
@@ -77,33 +77,33 @@ _Commands for **Everyone's Usage**_
 * slap - Slap the mentioned user (has it's default response if you did not mention anyone)
 * cuddle - Cuddles the mentioned user (has it's default response if you did not mention anyone)
 
-> Game Commands
+> **Game Commands**
 
 * osustd *user* - Shows you your stats on osu standard
 * osustdtop *user* - Shows you your top play on osu standard
 * osumania *user*-- Shows you your stats on osu mania
 * osumaniatop *user* - Shows you your top play on osu mania
 
-> NSFW Commands <This wont work on non NSFW Channels>
+> **NSFW Commands** <This wont work on non NSFW Channels>
 
 * lewdneko - This is where Kashima will show NSFW Pictures of a CatGirl/Neko.
 * lewdnekogif - This is where Kashima will show NSFW Pictures of a CatGirl/Neko, but in a MOVING format.
 * oppai - This is where Kashima will show you some jiggly oppai's. *Im sure Issei would love this*
 * hentai - Random Hentai GIF/Pictures.
 
-> Moderator Commands
+> **Moderator Commands**
 
-_Clear/Purge Commands Needs **Manage_Messages** Permission to work_
+_Clear/Purge Commands Needs **Manage_Messages** permission to work_
 * clearmsg <number> - Kashima will delete the last 2-100 messages in the channel where you used this
 * purgemsg <number> - Kashima will bulk-delete the last 2-100 messages in the channel where you used this
 
-_Ban/Kick Commands Needs **BAN / Kick Members** Permissions to work_
+_Ban/Kick Commands Needs **Ban / Kick Members** permissions to work_
 * kick @mention reason - Kicks someone out of your server. 
 * ban @mention reason - Bans someoone out of your server. 
 
 @mention is the name of user you want to kick/ban, reason is the reason for kick/ban.
 
-> Music Commands
+> **Music Commands**
 * play - this plays a particular youtube link to your discord voice channel. Playlists and Search are supported. 
 
 For playlist make sure the link format is something like `https://www.youtube.com/playlist?list="playlist id is here"`.
@@ -114,7 +114,7 @@ For Search, just use +play searchterm here
 * stop - stops the music and removes all the songs from queue
 * queue - shows the Queued music and the Now Playing on your server.
 
-> Owner / Co Owner Commands
+> **Owner / Co Owner Commands**
 * reboot - Kashima will commence reboot.
 * eval - some dangerous stuff that I can't let you touch, but for a good reason, because this code runs the code you entered with [prefix]eval.
 * say - lets Kashima say something I encoded.
