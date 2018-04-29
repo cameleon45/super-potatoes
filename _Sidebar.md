@@ -2,4 +2,4 @@
 
 [![Discord Bots](https://discordbots.org/api/widget/424137718961012737.svg)](https://discordbots.org/bot/424137718961012737)
 
-[![Bots for Discord](https://botsfordiscord.com/api/v1/bots/424137718961012737/embed?type=.svg)](https://botsfordiscord.com/bot/424137718961012737
+[![Bots for Discord](https://botsfordiscord.com/api/v1/bots/424137718961012737/embed?type=.svg)](https://botsfordiscord.com/bot/424137718961012737)
