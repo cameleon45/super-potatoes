@@ -1,4 +1,4 @@
-# Fun Commands
+# Fun & Interaction Commands
 
 |Commands|Usage|
 |--------|-----|
