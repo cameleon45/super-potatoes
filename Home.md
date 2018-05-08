@@ -24,7 +24,7 @@
 ### Command List:
 You can use the link below, or just use the menu at the right!
 * [[Commonly Used Commands]]
-* [[Fun Commands]]
+* [[Fun & Interaction Commands]]
 * [[Game Commands]]
 * [[Moderator Commands]]
 * [[Music Commands]]
