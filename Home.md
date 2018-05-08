@@ -7,18 +7,18 @@
 
 > **Kashima, supports Changable Prefix that is applied per server.**
 
-**Features**
-1. 24/7 Uptime, unless restarted for Code Update
-1. Changable Prefix
-1. Configurable Welcome Messages
-1. Mod-Log Support to record your Bans and Kicks
-1. Invite Buster, Automated Invite Link Senders Moderation.
-1. AFK Command, You'll never need to say, I'm afk dammit
-1. Moderator Only Commands
-1. Music Commands with Good Quality, Youtube Playlist and Search is supported
+### Features:
+1. 24/7 Uptime, unless restarted for code update
+1. Changable prefix
+1. Configurable welcome messages
+1. Mod-Log support to record your bans and kicks
+1. Invite Buster, automated Invite Link senders moderation.
+1. AFK Command, You'll never need to say, I'm AFK dammit
+1. Moderator only commands
+1. Music Commands with good quality, YouTube playlist and search is supported
 1. Fun Commands
 1. Osu! Commands
-1. SFW Anime Neko's
+1. SFW anime nekos
 1. NSFW Commands
 
 ### Command List:
