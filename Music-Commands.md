@@ -14,4 +14,6 @@ Currently only supports YouTube.
 
 >For search, just use `play searchterm`.
 
->Kashima's Music is Revamped. You can only skip the songs you added and the Admins with Permission Manage_Messages can skip all the songs while the stop is limited to admins only, that also has the Permission Manage_Messages. Kashima will auto leave once she detects the Voice Channel is Inactive now, Less Hassle.
+>Kashima's Music is Revamped. You can only skip the songs you added and the Admins with Permission Manage_Messages can skip all the songs while the stop is limited to admins only, that also has the Permission Manage_Messages.
+
+>Kashima's now Auto Leaves after 30 secs of Inactivity on the the Voice Channel
