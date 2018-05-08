@@ -1,4 +1,4 @@
-# Common Used Commands
+# Commonly Used Commands
 These are the commands that are commonly used. They doesn't require any special permissions.
 
 |Commands|Usage|
