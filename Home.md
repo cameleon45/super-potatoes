@@ -21,6 +21,7 @@
 1. SFW Anime Neko's
 1. NSFW Commands
 
+**CURRENTLY UNDER RECONSTRUCTION SORRY FOR THE MESS**
 **Command List**
 > **Misc Commands**
 
