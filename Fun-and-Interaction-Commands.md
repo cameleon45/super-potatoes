@@ -2,6 +2,7 @@
 
 |Commands|Usage|
 |--------|-----|
+|`afk`| Kashima will set you AFK, Given the AFK module is enabled on the server.|
 |`ask`| Pretty much like 8ball stuff. Ask something and Kashima can answer yes, maybe or no depending on her mood.|
 |`avatar`| Shows you your avatar, and an another person's avatar if you mentioned someone.|
 |`neko`| Shows you a random anime neko.|
