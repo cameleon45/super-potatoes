@@ -12,4 +12,4 @@ Currently only supports YouTube.
 ## Notes:
 >For playlist make sure the link format is something like `https://www.youtube.com/playlist?list="playlist id is here"`.
 
->For search, just use `+play searchterm`.
+>For search, just use `play searchterm`.
