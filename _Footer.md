@@ -1,0 +1,1 @@
+**Kashima, second of the Katori-class training cruisers.**
